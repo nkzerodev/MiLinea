@@ -1,8 +1,8 @@
 {
   "id": 1,
-  "titulo": "🚀 ¡Ya estamos en Play Store!",
-  "mensaje": "MiLinea ya se encuentra disponible oficialmente. Descárgala desde allí para recibir actualizaciones automáticas.",
-  "botonTexto": "Ver en Play Store",
-  "url": "https://google.com/",
+  "titulo": "🎉 ¡Bienvenido a MiLinea!",
+  "mensaje": "Gracias por instalar MiLinea v1.0.0. Disfruta de la forma más rápida y cómoda de consultar tu saldo, comprar planes y transferir en ETECSA sin marcar códigos USSD.",
+  "botonTexto": "Contactar al creador",
+  "url": "https://t.me/NKZERO1128",
   "activo": true
 }
